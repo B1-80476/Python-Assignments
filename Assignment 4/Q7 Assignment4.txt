@@ -1,0 +1,21 @@
+Python is a computer programming language often used to build websites and software,
+ automate tasks, and analyze data. Python is a general-purpose language, not specialized
+ for any specific problems, and used to create various programmes. 
+
+Features of Python:
+1. Easy to Code.
+2. Easy to Read.
+3. Free and Open-Source.
+4. Robust Standard Library.
+5. Interpreted.
+6. Portable
+7. Object-Oriented and Procedure-Oriented.
+8. Support for GUI.
+9. Dynamically Typed.
+10. High-level Language
+
+
+Python supports imperative, object-oriented, functional and procedural paradigms. 
+Java was developed for Class-based and Object-oriented paradigms. 
+Python keeps the code concise, clean and readable. More effort and time is needed
+for the developers to keep the code readable in Java.

@@ -1,0 +1,13 @@
+Data type supported by Python are:
+
+a) Numeric data type: 1.Integer, 2.Float, 3.Complex
+
+b) Dictionary data type
+
+c) Boolean data type
+
+d) Sequence data type: 1.List, 2.Tuple, 3.String
+ 
+e) Set data type
+
+f) Binary data type
